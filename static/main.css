@@ -1,0 +1,23 @@
+        
+          
+body{
+    
+    background-color: rgb(200, 217, 214);
+      
+}
+
+#heading{
+    color: antiquewhite;
+    
+} 
+.btn{
+    background: transparent;
+    border: none;
+    margin: 20px;
+    font-size: 30px;
+    outline: none;
+    color: grey;
+} 
+.btn i:hover{
+    cursor: pointer;
+}
